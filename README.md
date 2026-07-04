@@ -1,6 +1,5 @@
 # Basic Computer (CPU) — Design & Simulation in Verilog
 
-> ITU **BLG222E – Computer Organization**, Homework 3
 
 This project is a simple computer (CPU) designed from scratch using the **Verilog
 Hardware Description Language (HDL)**. Instead of manufacturing a physical chip, the
